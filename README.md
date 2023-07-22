@@ -1,4 +1,6 @@
 # Utila_Permaculture_Dao
+
+
 Utila Permaculture DAO
 
 Table of Contents
@@ -13,6 +15,7 @@ Getting Started
 Action Steps for Creating the GitHub Repository
 Contribution
 License
+
 1. Introduction
 
 Welcome to the Utila Permaculture DAO GitHub repository! This project aims to establish a Decentralized Autonomous Organization (DAO) centered around permaculture principles to benefit the community of Utila and promote sustainable practices in perpetuity. This README file will provide an overview of Utila, permaculture, and what a DAO is, followed by an explanation of how this DAO can positively impact Utila and the environment.
@@ -40,6 +43,7 @@ Community Empowerment: Local residents will have a direct say in shaping the dir
 Resource Optimization: By leveraging blockchain and smart contract technology, the DAO can optimize resource allocation and reduce inefficiencies.
 Education and Awareness: The DAO will promote permaculture education and awareness, empowering people to make informed decisions and adopt sustainable practices.
 Resilience to External Influences: The decentralized nature of the DAO will make Utila more resilient to external economic and political influences.
+
 7. Getting Started
 
 To get involved in the Utila Permaculture DAO project, follow these steps:
@@ -49,6 +53,7 @@ Join the Community: Engage with the community on social media channels, forums, 
 Contribute: The DAO encourages contributions from developers, designers, content creators, permaculture experts, and anyone interested in making a positive impact on Utila.
 Governance: Participate in the DAO's governance process, where decisions are made collectively by members. Be an active part of shaping the DAO's direction and projects.
 Spread the Word: Share the project with others who might be interested in joining the movement or contributing their expertise.
+
 8. Action Steps for Creating the GitHub Repository
 
 Create the Repository: Set up a new GitHub repository with an appropriate name, such as "Utila-Permaculture-DAO."
@@ -58,6 +63,7 @@ Document Smart Contracts: If applicable, create a separate folder for smart cont
 Documentation and Contribution Guidelines: Include guidelines for contributing to the project and documentation for setting up the development environment.
 License: Choose an appropriate open-source license and add it to the repository.
 Project Management: Utilize GitHub's issue tracking and project management features to organize tasks, milestones, and discussions.
+
 9. Contribution
 
 We welcome contributions from everyone, whether it's code improvements, design suggestions, documentation enhancements, or new ideas. To contribute, please fork this repository, create a new branch for your changes, and submit a pull request. Ensure that your contributions align with the vision and principles of the Utila Permaculture DAO.
