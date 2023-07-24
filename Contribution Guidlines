@@ -1,0 +1,17 @@
+Utila Permaculture DAO - Contribution Guidelines
+
+Introduction
+
+Thank you for considering contributing to the Utila Permaculture DAO project! Your contributions are essential in realizing our vision of creating a sustainable and self-sufficient ecosystem in Utila through permaculture principles and decentralized collaboration. This document outlines the guidelines for contributing to the project and provides instructions for setting up the development environment.
+
+Contribution Guidelines
+
+1. Understand the Vision: Familiarize yourself with the project's vision and objectives as outlined in the README.md file. Ensure that your contributions align with the goals of promoting permaculture and sustainable practices in Utila.
+2. Create a GitHub Account: If you haven't already, create an account on GitHub (https://github.com/).
+3. Fork the Repository: Fork the Utila Permaculture DAO repository to your GitHub account. This will create a copy of the repository under your account, allowing you to make changes.
+4. Branching Strategy: Create a new branch in your forked repository for each contribution you make. Give your branch a descriptive name that reflects the nature of the changes you intend to implement.
+5. Code Style and Quality: Follow the project's coding conventions and maintain high code quality. Ensure that your code is well-documented and easy to understand.
+6. Commit and Pull Request: Make your changes in the branch and commit them with clear and concise messages. When you are ready to submit your contribution, create a pull request from your branch to the main repository.
+7. Review Process: After you submit a pull request, the project maintainers will review your changes. Be prepared to address any feedback or suggestions they may have.
+8. Be Respectful: Treat other contributors and community members with respect and kindness. Be open to constructive criticism and collaborate with others to achieve common goals.
+9. Documentation Updates: If you make significant changes to the project, ensure that the documentation is kept up-to-date. This includes updating the README.md file and any other relevant documentation.
